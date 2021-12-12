@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.oop.lab9.Layout">
+   <children>
+      <TextField layoutX="60.0" layoutY="142.0" prefHeight="46.0" prefWidth="50.0" />
+      <TextField layoutX="178.0" layoutY="142.0" prefHeight="46.0" prefWidth="50.0" />
+      <Text layoutX="136.0" layoutY="177.0" strokeType="OUTSIDE" strokeWidth="0.0" text="/" wrappingWidth="14.7294921875">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <Text layoutX="251.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="=" wrappingWidth="30.7294921875">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
